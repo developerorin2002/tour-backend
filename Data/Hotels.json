@@ -1,0 +1,128 @@
+[
+    {
+        "id":"1",
+        "place_name":"coxsbazar",
+        "total_hotel":[
+            {
+                "hotel_id":"1",
+                "image":"https://images.pexels.com/photos/5371575/pexels-photo-5371575.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "hotel_name":"khaled Hotel International",
+                "sit":"200",
+                "totalexpense":"20000tk",
+                "duration":"1 night",
+                "introduction":"1 Bed 2 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"2",
+                "image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "hotel_name":"shohan Hotel International",
+                "sit":"202",
+                "totalexpense":"10000tk",
+                "duration":"2 night",
+                "introduction":"1 Bed 2 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"3",
+                "image":"https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Anik Hotel International",
+                "sit":"30",
+                "totalexpense":"2000tk",
+                "duration":"2 night",
+                "introduction":"1 Bed 6 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"4",
+                "image":"https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Orin Hotel International",
+                "sit":"20",
+                "totalexpense":"2000tk",
+                "duration":"5 night",
+                "introduction":"1 Bed 8 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "place_name":"Sundorbon",
+        "total_hotel":[
+            {
+                "hotel_id":"1",
+                "image":"https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Zabeer Hotel International",
+                "sit":"2002",
+                "totalexpense":"203000tk",
+                "duration":"8 night",
+                "introduction":"6 Bed 9 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"2",
+                "image":"https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Foorkan Hotel International",
+                "sit":"2022",
+                "totalexpense":"100040tk",
+                "duration":"1 month",
+                "introduction":"1 Bed 2 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"3",
+                "image":"https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Grand Hotel International",
+                "sit":"30",
+                "totalexpense":"20400tk",
+                "duration":"5 night",
+                "introduction":"1 Bed 6 floor room 1 swimming pool and free nasta With dinner, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"4",
+                "image":"https://images.pexels.com/photos/2017802/pexels-photo-2017802.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"Orion Hotel International",
+                "sit":"206",
+                "totalexpense":"23000tk",
+                "duration":"5 night",
+                "introduction":"10 Bed 8 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "place_name":"Srimongol",
+        "total_hotel":[
+            {
+                "hotel_id":"1",
+                "image":"https://images.pexels.com/photos/161758/governor-s-mansion-montgomery-alabama-grand-staircase-161758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"ZabeerX Hotel International",
+                "sit":"20023",
+                "totalexpense":"203000tk",
+                "duration":"8 night",
+                "introduction":"6 Bed 9 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"2",
+                "image":"https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "hotel_name":"FoorkanXYZ Hotel International",
+                "sit":"2022",
+                "totalexpense":"100040tk",
+                "duration":"1 month",
+                "introduction":"1 Bed 2 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"3",
+                "image":"https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"GrandXYZ Hotel International",
+                "sit":"30",
+                "totalexpense":"20400tk",
+                "duration":"5 night",
+                "introduction":"1 Bed 6 floor room 1 swimming pool and free nasta With dinner, Air conditioning Kitchen"
+            },
+            {
+                "hotel_id":"4",
+                "image":"https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "hotel_name":"OrionXYZ Hotel International",
+                "sit":"206",
+                "totalexpense":"23000tk",
+                "duration":"5 night",
+                "introduction":"10 Bed 8 floor room 1 swimming pool and free nasta With, Air conditioning Kitchen"
+            }
+        ]
+    }
+]

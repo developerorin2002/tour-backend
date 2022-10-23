@@ -1,0 +1,19 @@
+[
+    {
+        "category_id":"01",
+        "category_name":"Cox's Bazar",
+        "place_img":"https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "category_id":"02",
+        "category_name":"Sent Martin",
+        "place_img":"https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "category_id":"03",
+        "category_name":"kuakata",
+        "place_img":"https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+    
+
+]
